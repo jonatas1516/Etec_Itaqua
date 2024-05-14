@@ -1,3 +1,1 @@
-<input type="text" id="ano">
-
-<input type="button" onclick="anoBissexto()" value="calcular">
+<p> Digite o texto aqui </p>
